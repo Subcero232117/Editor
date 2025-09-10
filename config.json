@@ -1,0 +1,28 @@
+{
+  "discord": {
+    "token": "TU_DISCORD_BOT_TOKEN_AQUI",
+    "clientId": "TU_CLIENT_ID_AQUI",
+    "guildId": "TU_SERVER_ID_AQUI"
+  },
+  "apis": {
+    "youtube": {
+      "apiKey": "TU_YOUTUBE_API_KEY_AQUI"
+    },
+    "spotify": {
+      "clientId": "TU_SPOTIFY_CLIENT_ID_AQUI",
+      "clientSecret": "TU_SPOTIFY_CLIENT_SECRET_AQUI"
+    },
+    "paypal": {
+      "clientId": "TU_PAYPAL_CLIENT_ID_AQUI",
+      "clientSecret": "TU_PAYPAL_CLIENT_SECRET_AQUI"
+    }
+  },
+  "minecraft": {
+    "host": "TU_MINECRAFT_SERVER_IP_AQUI",
+    "port": 19132,
+    "password": "TU_MINECRAFT_PASSWORD_AQUI"
+  },
+  "database": {
+    "url": "file:./dev.db"
+  }
+}
